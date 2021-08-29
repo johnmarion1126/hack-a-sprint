@@ -1,6 +1,12 @@
-# Mintbean Open Source Club - Weather App
-List of resources for the MOS weather app project.
+# Mintbean Open Source Clubp
+List of resources for the Mintbean Open Source Club. 
 
-## Mockups:
-
-![mockups](https://i.ibb.co/TrkFMqn/unknown.png)
+---
+## [Projects](./Projects)
+`Design files from current and past projects`
+---
+## [Git](./Git)
+`Resources for the basic of version control`
+---
+## [Learning](./Learning)
+`Resources for tools and frameworks used in projects`
