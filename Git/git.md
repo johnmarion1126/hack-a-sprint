@@ -1,5 +1,5 @@
 # Git
-Resources for the basic of version control
+Resources for the basics of version control
 
 ## Version Control
 * [Branching](./resources/branching.md)
