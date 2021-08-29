@@ -11,4 +11,4 @@ List of resources for the Mintbean Open Source Club.
 
 ---
 ## [Learning](./Learning/learning.md)
-`Resources for tools and frameworks used in projects`  
+`Resources for learning the tools and frameworks used in the projects`  
