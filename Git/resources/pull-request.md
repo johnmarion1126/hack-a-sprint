@@ -16,5 +16,7 @@ Before any code is merged to the main, it first needs to be reviewed and we do t
 5. Once that's all filled out. We can now click on the "Create Pull Request". It should now look like this.<br>
 ![image](https://user-images.githubusercontent.com/48599206/131270584-3df136b1-c9c2-4798-ae52-6484e02b5e29.png)
 
+You have now created a pull request! Hopefully it gets approved and is merged to main.
+
 ## Extra Resources
 * [Code Review](https://mtlynch.io/code-review-love/)
