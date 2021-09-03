@@ -12,5 +12,8 @@ Resources for learning the tools and frameworks used in the projects
 
 ## Back-End
 ### Node
+* [What is Node js?](https://youtu.be/uVwtVBpw7RQ). Short introductory video on Node.js.
+* [What exactly is Node.js?](https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/). An article from freecodecamp that goes a little more in depth about Node.js.
 ### Express
-### MongoDB
+* [Node.js + Express](https://youtu.be/45dAt9Gz8rE). Short videoe explaining why we use Express.
+* [Express Overview](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm). Overview of Express features.
