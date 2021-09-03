@@ -2,10 +2,10 @@
 List of resources for the Mintbean Open Source Club. 
 
 ## [Projects](./Projects/projects.md)
-`Design files from current and past projects`
+Design files from current and past projects
 
 ## [Git](./Git/git.md)
-`Resources for the basic of version control`
+Resources for the basics of version control
 
 ## [Learning](./Learning/learning.md)
-`Resources for learning the tools and frameworks used in the projects`  
+Resources for learning the tools and frameworks used in the projects
