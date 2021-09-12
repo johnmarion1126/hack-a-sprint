@@ -22,4 +22,7 @@ Forking is another method to test features on a project without affecting the or
 7. You can use a similar format like this. Always remember to refer to the issue number in the pull request.<br>
 ![image](https://user-images.githubusercontent.com/48599206/132967079-6b9f794b-7e84-42b1-ba2b-9bd693b8ae11.png)
 
+8. The pull request should now look like this.<br>
+![image](https://user-images.githubusercontent.com/48599206/132967283-6e9fee9d-4982-4cd6-8813-25e46672a9c3.png)
+
 Perfect! Now we wait for the code reviews from the maintainers or, if we're lucky, it gets merge without any trouble.
