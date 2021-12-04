@@ -1,11 +1,8 @@
-# Mintbean Open Source Club
-List of resources for the Mintbean Open Source Club. 
-
-## [Projects](./Projects/projects.md)
-Design files from current and past projects
+# Hack-A-Sprint Resources
+List of resources for Hack-A-Sprint.
 
 ## [Git](./Git/git.md)
-Resources for the basics of version control
+Resources for version control.
 
 ## [Learning](./Learning/learning.md)
-Resources for learning the tools and frameworks used in the projects
+Resources for frameworks and other tools.
