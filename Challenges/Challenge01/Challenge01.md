@@ -1,2 +1,2 @@
 # Project Tracker
-* [Wireframe](./challenge01)
+* [Wireframe](./challenge01.png)
