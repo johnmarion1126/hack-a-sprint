@@ -1,6 +1,5 @@
 # Git
-Resources for the basics of version control
-
+Resources for version control
 * [Branching](./resources/branching.md)
 * [Pull Request](./resources/pull-request.md)
 * [Merge Conflict](./resources/merge-conflict.md)

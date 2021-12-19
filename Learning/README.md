@@ -1,7 +1,8 @@
 # Learning
-Resources for learning the tools and frameworks used in the projects
+Resources for frameworks and other tools
 
 ## Front-End
+---
 ### React
 * [Fullstack Open:](https://fullstackopen.com/en) Get up and running with React with this free React tutorial. Part 1 and 2 (a, c, e) are enough to help you with this project. This course uses Hooks to teach React concepts.
 * [Learn React for free](https://scrimba.com/learn/learnreact) Highly interactive and allows you to write code on the same screen as the tutorials. The course does use class components rather than functional components, but it can be a good practice to convert the projects to use functional components instead.
@@ -11,7 +12,10 @@ Resources for learning the tools and frameworks used in the projects
 ### SASS
 * [Sass Basics](https://sass-lang.com/guide) Documentation from the main website. Short and straight to the point.
 
+<br/>
+
 ## Back-End
+---
 ### Node
 * [What is Node js?](https://youtu.be/uVwtVBpw7RQ) Short introductory video on Node.js.
 * [What exactly is Node.js?](https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/) An article from freecodecamp that goes a little more in depth about Node.js.

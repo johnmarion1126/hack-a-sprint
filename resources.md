@@ -1,8 +1,11 @@
 # Hack-A-Sprint Resources
 List of resources for Hack-A-Sprint.
 
-## [Git](./Git/git.md)
+## [Challenges](./Challenges/README.md)
+Resources for current and past challenges
+
+## [VersionControl](./VersionControl/README.md)
 Resources for version control.
 
-## [Learning](./Learning/learning.md)
+## [Learning](./Learning/README.md)
 Resources for frameworks and other tools.
