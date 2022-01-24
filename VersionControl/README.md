@@ -1,4 +1,4 @@
-# Git
+# Version Control
 Resources for version control
 * [Branching](./resources/branching.md)
 * [Pull Request](./resources/pull-request.md)
